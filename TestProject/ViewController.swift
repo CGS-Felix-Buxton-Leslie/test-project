@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         println("Hello World")
     }
 
-    func averageFeature() {
+    func anAverageFeature() {
         
             println("This is an awesome feature")
     
