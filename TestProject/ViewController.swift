@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         println("Hello World")
     }
 
-    func awesomeFeature() {
+    func notSoAverageFeatureFeature() {
         
             println("This is an awesome feature")
     
